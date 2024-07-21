@@ -1,0 +1,13 @@
+Opening loading screen
+Preparing loading screen for entrypoint 'preLaunch'
+Calling entrypoint container for mod 'c2me'
+Calling entrypoint container for mod 'c2me-base'
+Calling entrypoint container for mod 'debugify'
+Calling entrypoint container for mod 'mod-loading-screen'
+Calling entrypoint container for mod 'modernfix'
+Calling entrypoint container for mod 'sodium'
+Calling entrypoint container for mod 'zoomify'
+Finished loading screen for entrypoint 'preLaunch'
+Preparing loading screen for entrypoint 'main'
+Calling entrypoint container for mod 'appleskin'
+Calling entrypoint container for mod 'balm-fabric'
