@@ -1,38 +1,10 @@
 
-# This is an example boolean property
-exampleBoolean = true
+# Should space-clicking move all items even if an empty slot was clicked?
+allowBulkTransferAllOnEmptySlot = false
 
-# This is an example enum property
-exampleEnum = "Hello"
+# Use the client implementation even on servers that have the mod installed - only useful for development purposes.
+forceClientImplementation = false
 
-# This is an example enum list property
-exampleEnumList = [ "Hello", "World" ]
-
-# This is an example int property
-exampleInt = 42
-
-# This is an example int list property
-exampleIntList = [ 12, 24 ]
-
-# This is an example multiline string property
-exampleMultilineString = "Hello World"
-
-# This is an example resource location set property
-exampleResourceLocationSet = [ "minecraft:diamond", "minecraft:dirt" ]
-
-# This is an example string property
-exampleString = "Hello World"
-
-# This is an example string list property
-exampleStringList = [ "Hello", "World" ]
-
-
-# This is an example category
-[exampleCategory]
-
-# This is an example float inside a category
-exampleFloat = 42.84
-
-# This is an example string inside a category
-innerField = "I am inside"
+# You can now go into your Controls and unbind the respective Inventory Essentials keys instead!
+whereDidTheConfigsGo = true
 

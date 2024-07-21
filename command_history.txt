@@ -1,0 +1,50 @@
+/summon minecraft:chicken
+/gamemode survival @a
+/tp NevieTheDog
+/gamerule keepInventory true
+/kill Zunkz
+/give zunkz diamond_pickaxe
+/enchant Zunkz minecraft:silk_touch
+/enchant Zunkz minecraft:efficiency 5
+/enchant Zunkz minecraft:unbreaking 3
+/enchant Zunkz minecraft:mending
+/enchant Zunkz minecraft:silk_touch
+/xp set zunkz 200 levels
+/tp NevieTheDog
+/tp NevieTheDog Zunkz
+/gamemode adventure NevieTheDog
+/gamemode survival
+/tp NevieTheDog Zunkz
+/gamemode survival @a
+/gamerule keepInventory false
+/gamerule doDaylightCycle true
+/gamerule keepInventory true
+/gamemode spectator
+/kill UnknownSekorsky
+/effect give Zunkz minecraft:haste infinite 2 true
+/effect clear Zunkz
+/tp MatthiesHatKekse
+/time set day
+/summon minecraft:cow
+/tp MatthiesHatKekse Zunkz
+/tp NPCLover
+/tp NevieTheDog
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/time set night
+/summon minecraft:creeper
+/scoreboard objectives add dum
+/scoreboard objectives add dum dum
+/scoreboard objectives add dum dummy
+/scoreboard objectives setdisplay list dum
+/scoreboard objectives remove dum
+/tp MatthiesHatKekse
+/gamerule keepInventory true'
+/gamerule keepInventory true
+/gamerule doDaylightCycle
+/time set night
+/time set day
+/time set 900
+/time set 1200
+/time set 2400
